@@ -35,7 +35,7 @@
 
     	<!-- https://vaadin.com/directory#!addon/easyuploads -->
 		<dependency>
-		   <groupId>de.mhus.ports.vaadin.addon</groupId>
+		   <groupId>de.mhus.ports.vaadin.addons</groupId>
 		   <artifactId>easyuploads</artifactId>
 		   <version>${project.version}</version>
 		</dependency>
